@@ -24,4 +24,4 @@ details of the geojson [spec](http://geojson.org/geojson-spec.html).
     (gv/valid? {:type "GeometryCollection"
                 :geometries [{:type "Point" :coordinates [0 0]}
                              {:type "Polygon" :coordinates [[[0 0] [0 1] [1 1] [1 0] [0 0]]]}
-                             {:type "Linestring" :coordinates [[0 0] [1 1] [1 2]]}]})
+                             {:type "LineString" :coordinates [[0 0] [1 1] [1 2]]}]})
