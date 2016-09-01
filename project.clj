@@ -1,4 +1,4 @@
-(defproject geojson "0.1.0-SNAPSHOT"
+(defproject com.farmlogs/geojson "1.0.0"
   :description "Clojure utilities for using GeoJSON."
   :url "https://github.com/FarmLogs/geojson"
   :plugins [[s3-wagon-private "1.2.0"]]
