@@ -6,7 +6,7 @@ Clojure utilities for using [GeoJSON](http://geojson.org).
 
 Add the following dependency to your `project.clj`:
 
-    [com.farmlogs/geojson "1.0.0"]
+    [com.farmlogs/geojson "1.1.0"]
 
 ## Usage
 
