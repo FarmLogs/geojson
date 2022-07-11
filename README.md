@@ -8,6 +8,11 @@ Add the following dependency to your `project.clj`:
 
     [com.farmlogs/geojson "1.1.0"]
 
+## pre-commit
+
+- Install: https://pre-commit.com/
+- running locally: This will also happen automatically before committing to a branch, but you can also run the tasks with `pre-commit run --all-files`
+
 ## Usage
 
 This library's utilities act on clojure maps structured as GeoJSON.
